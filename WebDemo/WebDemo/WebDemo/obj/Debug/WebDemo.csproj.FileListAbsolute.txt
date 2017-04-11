@@ -1,0 +1,164 @@
+E:\Visua stadio\WebDemo\WebDemo\bin\ApplicationInsights.config
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\csc.exe
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\vbc.exe
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe
+E:\Visua stadio\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\Visua stadio\WebDemo\WebDemo\bin\WebDemo.dll.config
+E:\Visua stadio\WebDemo\WebDemo\bin\WebDemo.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\WebDemo.pdb
+E:\Visua stadio\WebDemo\WebDemo\bin\Antlr3.Runtime.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\EntityFramework.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\EntityFramework.SqlServer.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.Web.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.ApplicationInsights.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Google.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Newtonsoft.Json.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Owin.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Helpers.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Mvc.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Optimization.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Razor.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.WebPages.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\WebGrease.dll
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.Web.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.ApplicationInsights.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Helpers.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Mvc.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Optimization.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.Razor.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.WebPages.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Antlr3.Runtime.pdb
+E:\Visua stadio\WebDemo\WebDemo\bin\Newtonsoft.Json.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\EntityFramework.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\EntityFramework.SqlServer.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Google.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Visua stadio\WebDemo\WebDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Visua stadio\WebDemo\WebDemo\obj\Debug\WebDemo.csprojResolveAssemblyReference.cache
+E:\Visua stadio\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+E:\Visua stadio\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\ApplicationInsights.config
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\csc.exe
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\vbc.exe
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\WebDemo.dll.config
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\WebDemo.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\WebDemo.pdb
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Antlr3.Runtime.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.Web.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Newtonsoft.Json.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Owin.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Helpers.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Mvc.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Optimization.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Razor.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\WebGrease.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.Web.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Helpers.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Mvc.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Optimization.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.Razor.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Antlr3.Runtime.pdb
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Newtonsoft.Json.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.csprojResolveAssemblyReference.cache
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+C:\Users\vuong\Desktop\WebDemo\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
