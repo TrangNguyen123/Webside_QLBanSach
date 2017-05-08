@@ -1,0 +1,73 @@
+﻿@{
+    ViewBag.Title = "HomePage";
+}        
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Agora Book</title>
+
+<!-- Bootstrap Core CSS -->
+        <link href="~/Content/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/templatemo_style.css" rel="stylesheet" />
+
+    <!-- Custom CSS -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <!-- Navigation -->
+    <div class="panel-heading" style="background-color:#403636; color:#e6e154; ">
+        <h2 style="margin-top:0px; margin-bottom:0px;">Tủ Sách Của Bạn</h2>
+    </div>
+        <div class="row main-left">
+            
+            
+            <div class="col-md-9">
+                <div class="panel panel-default">
+
+                  @Html.Action("SachPartial", "Sach")
+
+            </div>
+                </div>
+            </div>
+        <!-- /.row -->
+    <!-- end Page Content -->
+    <!-- Footer -->
+    <hr>
+    <footer>
+        <div class="row">
+            <div class="col-md-12">
+
+                <p>Copyright &copy; Your Website 2014</p>
+                <a href="http://localhost:49286/Home/Subpage">Home</a> | <a href="http://localhost:49286/Home/Subpage">Search</a> | <a href="http://localhost:49286/Home/Subpage">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a href="#">Contact Us</a><br />
+                <img src="/Content/image/templatemo_ads.jpg" style="width:1150px;">                    <!-- Credit: www.templatemo.com -->
+                    <!-- Credit: www.templatemo.com -->
+            </div>
+           
+        </div>
+    </footer>
+    <!-- end Footer -->
+    <!-- jQuery -->
+    <script src="~/Content/js/jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Content/js/bootstrap.js"></script>
+    <script src="~/Content/js/my.js"></script>
+
+</body>
+
+</html>

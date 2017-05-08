@@ -1,0 +1,21 @@
+﻿@using Website_BanSach.Models.Entities;
+@model SACH
+@{
+    ViewBag.Title = "xemchitiet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div><img src="~/Content/image/@Model.urlAnh" /></div>
+<div class="cleaner_with_width">&nbsp;</div>
+<div>Mã Sách: @Model.masach</div>
+<div>Tên Sách: @Model.tensach</div>
+<div>Giá: @Model.giaban</div>
+<div>Năm Xuất Bản: @Model.namXB</div>
+@using (Html.BeginForm("ThemGioHang", "GioHang", new { @masach = Model.masach, @strUrl = Request.Url.ToString() }))
+{
+    @*<div class="buy_now_button" style="background: brown;"><a href="http://localhost:49286/Home/Subpage">Mua</a></div>*@
+    <input type="submit" value="Mua hàng " id="btnGioHang" class="btn btn-primary" />
+
+}
+

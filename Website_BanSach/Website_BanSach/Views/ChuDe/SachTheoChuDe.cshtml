@@ -1,0 +1,43 @@
+﻿@using Website_BanSach.Models.Entities;
+@model List<SACH>
+@{
+    ViewBag.Title = "SachTheoChuDe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@*<h2>SachTheoChuDe</h2>*@
+<div class="row main-left">
+    <div class="col-md-9">
+        <div class="panel panel-default">
+            <div id="templatemo_content">
+                <div id="templatemo_content_right">
+                    @foreach (var item in Model)
+                    {
+
+                        <div id="templatemo_content_right">
+
+                            <div class="templatemo_product_box">
+                                @*<h1>Photography  <span>(by Best Author)</span></h1>*@
+                                <img src="~/Content/image/@item.urlAnh" width="100" height="100" alt="Image" />
+                                <p> <strong>@item.tensach</strong></p>
+
+                                <p> <strong>@item.giaban</strong></p>
+                                <div class="product_info">
+                                    <div class="buy_now_button" style="background: brown;"><a href="http://localhost:49286/Home/Subpage">Mua</a></div>
+                                    <div class="Detail_button" style="background: brown;"><a href="@Url.Action("xemchitiet",new { @masach = item.masach})">Xem Chi Tiết</a></div>
+                                </div>
+                                <div class="cleaner">&nbsp;</div>
+                            </div>
+
+                            <div class="cleaner_with_width">&nbsp;</div>
+
+                        </div> <!-- end of content right -->
+
+                    }
+
+                    <div class="cleaner_with_height">&nbsp;</div>
+                </div>
+
+        </div>
+    </div>
+</div>

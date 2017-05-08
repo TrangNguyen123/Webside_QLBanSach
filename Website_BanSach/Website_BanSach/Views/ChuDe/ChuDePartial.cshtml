@@ -1,0 +1,38 @@
+﻿@using Website_BanSach.Models.Entities;
+@model List<DANHMUCSACH>
+
+@{
+    ViewBag.Title = "ChuDePartial";
+}
+
+@*<h2>ChuDePartial</h2>*@
+
+
+
+        <li href="#" class="list-group-item menu1 active">
+            Danh Mục Sách
+        </li>
+        @foreach (var item in Model)
+        {
+            <a href="@Url.Action("SachTheoChuDe",new { @machude= item.maDMS })" class="list-group-item menu1">
+                <p><strong>@item.tenDMS</strong></p>
+            </a>
+            
+            @*<ul>
+                <li class="list-group-item">
+                    <a href="#">Level2</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="#">Level2</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="#">Level2</a>
+                </li>
+                <li class="list-group-item">
+                    <a href="#">Level2</a>
+                </li>
+            </ul>*@
+        }
+
+   
+
